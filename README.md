@@ -26,7 +26,7 @@ TRIP TROVE is aimed at building a social/travel network where users and vloggers
 ## Technology Stack
 
 From the repository’s description, some technologies are known (or likely):  
-- **Frontend**: TypeScript, Vite, Tailwind CSS  
+- **Frontend**: HTML , Vite, CSS  
 - **Backend / Platform / Data services**: Supabase (for authentication, database, API)  
 - **Deployment / Hosting**: Vercel / Netlify / or any platform supporting serverless or full-stack  
 - **Database**: Supabase’s built-in Postgres + real-time features  
