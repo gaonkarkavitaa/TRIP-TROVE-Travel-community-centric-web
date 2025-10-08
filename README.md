@@ -32,7 +32,7 @@ From the repository’s description, some technologies are known (or likely):
 - **Database**: Supabase’s built-in Postgres + real-time features  
 - **APIs / Serverless functions** for business logic  
 
-You should confirm libraries (e.g. Supabase client, auth, storage), routing, state management, etc.
+
 
 ---
 
